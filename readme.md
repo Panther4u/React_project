@@ -7,4 +7,4 @@
 
 ## Postman Collection
  The API Requests are available in this following Postman collection link:
- https://www.postman.com/jvlcode/workspace/nodejs-ecommerce/collection/19530322-997cf450-820a-4852-bc1f-a93c9072d6ec?action=share&creator=19530322
+ https://web.postman.co/workspace/My-Workspace~d2f818a3-0802-42dd-8a54-74050bce96b6/collection/32036340-841e9550-364c-41a3-bbe2-201f25e050c1
